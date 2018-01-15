@@ -1,15 +1,15 @@
 [submodule "vendor/goproxy"]
 	path = vendor/goproxy
-	url = git@github.com:elazarl/goproxy.git
+	url = https://github.com/elazarl/goproxy.git
 [submodule "vendor/github.com/elazarl/goproxy"]
 	path = vendor/github.com/elazarl/goproxy
-	url = git@github.com:elazarl/goproxy.git
+	url = https://github.com/elazarl/goproxy.git
 [submodule "vendor/github.com/huichen/sego"]
 	path = vendor/github.com/huichen/sego
-	url = git@github.com:huichen/sego.git
+	url = https://github.com/huichen/sego.git
 [submodule "vendor/golang.org/x/net"]
 	path = vendor/golang.org/x/net
-	url = git@github.com:golang/net.git
+	url = https://github.com/golang/net.git
 [submodule "vendor/github.com/mattn/go-sqlite3"]
 	path = vendor/github.com/mattn/go-sqlite3
-	url = git@github.com:mattn/go-sqlite3.git
+	url = https://github.com/mattn/go-sqlite3.git
